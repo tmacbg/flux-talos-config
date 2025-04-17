@@ -4,4 +4,3 @@ resources:
   - flux-system
   - infrastructure/nginx
   - infrastructure/cert-manager
-  - infrastructure/external-dns
